@@ -1,0 +1,35 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Count the cupcakes by 2s and find the total number of cupcakes.<br><img width='70%' src='./images/31.jpg'>",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Count the cotton candies by 2s and find the total cotton candies.<br><img width='70%' src='./images/32.jpg'>",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Count the apples by 10s and find the total number of apples.<br><img width='80%' src='./images/33.jpg'>",
+        "options": [
+            "30",
+            "40",
+            "20",
+            "50"
+        ],
+        "correct": 0
+    }
+]

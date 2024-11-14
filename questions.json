@@ -1,0 +1,17 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Skip count by 2s and fill the missing number in the blank box.",
+    "options":["10","12","14","","18",""],
+    "answers": ["10","12","14","16","18","20"],
+    "secondImg":"./images/2.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Skip count by 10s and fill the missing number in the blank box.",
+    "options":["20","30","","50","","70"],
+    "answers": ["20","30","40","50","60","70"],
+    "secondImg":"./images/1.jpg"
+    
+  }
+]
